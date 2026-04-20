@@ -1,0 +1,7 @@
+node_modules/
+client/node_modules/
+server/data/Connections.csv
+server/data/analysis_cache.json
+server/.env
+dist/
+.DS_Store
