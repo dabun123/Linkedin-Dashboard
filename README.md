@@ -10,15 +10,15 @@ A full-stack web application that visualizes and analyzes LinkedIn connections u
 ---
 
 ## 📊 Main Dashboard
-![Main Dashboard](./Images/Main Dashboard.png)
+![Main Dashboard](./Images/MainDashboard.png)
 
 
 ## 🤝 Connections & Filters
-![Connections & Filters](./Images/Connections & Filters.png)
+![Connections & Filters](./Images/Connection&Filters.png)
 
 
 ## 🏢 Industry Breakdown
-![Industry Breakdown](./Images/Industry Breakdown.png)
+![Industry Breakdown](./Images/IndustryBreakdown.png)
 
 
 ## 🎯 Preferences & Insights
