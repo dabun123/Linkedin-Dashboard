@@ -1,5 +1,4 @@
-Visual:
-# LinkedIn Network Analyzer
+# LinkedIn Network Analyzer - Visualization
 
 A full-stack web application that visualizes and analyzes LinkedIn connections using interactive dashboards and AI-driven insights.
 
