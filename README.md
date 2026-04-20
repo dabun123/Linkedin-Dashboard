@@ -12,22 +12,18 @@ A full-stack web application that visualizes and analyzes LinkedIn connections u
 ## 📊 Main Dashboard
 ![Main Dashboard](./Images/Main Dashboard.png)
 
----
 
 ## 🤝 Connections & Filters
 ![Connections & Filters](./Images/Connections & Filters.png)
 
----
 
 ## 🏢 Industry Breakdown
 ![Industry Breakdown](./Images/Industry Breakdown.png)
 
----
 
 ## 🎯 Preferences & Insights
 ![Preferences](./Images/Preferences.png)
 
----
 
 ## ⚙️ Features
 - Visualize LinkedIn connections in an interactive dashboard  
