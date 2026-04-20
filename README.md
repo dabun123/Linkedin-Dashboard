@@ -1,7 +1,3 @@
-# LinkedIn Dashboard
-
-AI-powered analysis of your LinkedIn connections.
-
 Visual:
 # LinkedIn Network Analyzer
 
